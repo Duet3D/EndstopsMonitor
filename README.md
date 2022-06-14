@@ -7,13 +7,13 @@ This is a very simple demonstration for a DWC-only plugin (v3.4 and later). It l
 ## Automatic build instructions
 
 1. Install NodeJS on your system
-2. Clone [DuetWebControl](https://github.com/chrishamm/DuetWebControl) and set it up by running `npm install` in the DWC directory
+2. Clone [DuetWebControl](https://github.com/Duet3D/DuetWebControl) and set it up by running `npm install` in the DWC directory
 3. Run `npm run build-plugin PATH` where `PATH` is the directory containing `plugin.json`
 4. EndstopsMonitor.zip is generated automatically in the new `dist` directory
 
 ## Manual build instructions
 
-1. Clone [DuetWebControl](https://github.com/chrishamm/DuetWebControl) and set it up by running `npm install` in the DWC directory
+1. Clone [DuetWebControl](https://github.com/Duet3D/DuetWebControl) and set it up by running `npm install` in the DWC directory
 2. Copy the `src` directory to `src/plugins/EndstopsMonitor` of DuetWebControl
 3. Append the following DwcPlugin definition to the default exports of `src/plugins/index.js`:
 ```
