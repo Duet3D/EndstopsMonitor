@@ -1,2 +1,2 @@
-# EndstopsMonitor
+# EndstopsMonitorPlugin
 DWC Endstops Monitor Plugin
