@@ -1,5 +1,10 @@
 # Endstops Monitor Plugin
 
+!!! THIS PLUGIN IS DEPRECATED !!!
+
+Starting from DWC 3.5 the endstop state is now reported as part of the axis labels in the status panel.
+This means there is no need for this particular plugin any more.
+
 ## Description
 
 This is a very simple demonstration for a DWC-only plugin (v3.4 and later). It lets users monitor the endstops interactively like in previous DWC versions. When loaded it creates a new "Endstops" tab on the Settings -> Machine page.

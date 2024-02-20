@@ -4,7 +4,7 @@
   "author": "Duet3D Ltd",
   "version": "auto",
   "license": "GPL-3.0-or-later",
-  "homepage": "https://github.com/Duet3D/DSF-Plugins",
+  "homepage": "https://github.com/Duet3D/EndstopsMonitorPlugin",
   "dwcVersion": "auto",
   "tags": [
     "endstops"
